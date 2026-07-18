@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/api.ts","./src/main.tsx","./src/types.ts","./src/components/compareview.tsx","./src/components/footer.tsx","./src/components/history.tsx","./src/components/navbar.tsx","./src/components/sidebar.tsx","./src/components/weatherchart.tsx","./src/components/worldmap.tsx","./src/hooks/uselocalstorage.ts"],"version":"5.9.3"}
